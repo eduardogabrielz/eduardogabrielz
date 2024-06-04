@@ -1,8 +1,8 @@
 <h1 align="left">Olá, me chamo EDUARDO 🤞</h1>
 
 <div style="display:flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardogabrielz&show_icons=true&locale=pt-br&theme=radical&count_private=true&include_all_commits=true" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardogabrielz&locale=pt-br&theme=radical&layout=compact" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=eduardogabrielz&show_icons=true&locale=pt-br&theme=radical&count_private=true&include_all_commits=true" height="100px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardogabrielz&locale=pt-br&theme=radical&layout=compact" height="100"/>
 </div>
 
 <div align="left">
